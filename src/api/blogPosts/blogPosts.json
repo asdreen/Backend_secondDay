@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "bw1s2c4lbxwibho",
+    "category": "Getting Started",
+    "title": "its working",
+    "cover": "https://picsum.photos/800/400",
+    "readTime": { "value": 1, "unit": "minute" },
+    "author": {
+      "name": "Al Jerliu",
+      "avatar": "https://picsum.photos/800/400"
+    },
+    "createdAt": "2022-12-21T17:00:37.932Z",
+    "updatedAt": "2022-12-21T20:36:39.061Z"
+  },
+  {
+    "_id": "bw1s2c4lbxwr857",
+    "category": "Going to be better",
+    "title": "hi there",
+    "cover": "https://picsum.photos/800/400",
+    "readTime": { "value": 1, "unit": "minute" },
+    "author": {
+      "name": "Asdren Jerliu",
+      "avatar": "https://picsum.photos/800/400"
+    },
+    "createdAt": "2022-12-21T17:07:33.499Z",
+    "updatedAt": "2022-12-21T20:35:32.315Z"
+  },
+  {
+    "_id": 3,
+    "category": "Getting Bored",
+    "title": "hi epicode",
+    "cover": "https://picsum.photos/800/400",
+    "readTime": { "value": 1, "unit": "minute" },
+    "author": {
+      "name": "Alex Jerliu",
+      "avatar": "https://picsum.photos/800/400"
+    },
+    "createdAt": "04 Dec 2020",
+    "updatedAt": "2022-12-21T17:09:16.247Z"
+  }
+]

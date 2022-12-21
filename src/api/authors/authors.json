@@ -1,0 +1,38 @@
+[
+  {
+    "name": "asdren",
+    "surname": "jerliu",
+    "email": "test@gmail.com",
+    "createdAt": "2022-12-20T16:19:24.691Z",
+    "updatedAt": "2022-12-20T16:42:08.499Z",
+    "id": "bw1s59glbwflggk",
+    "avatar": "url(\"e.g. https://ui-avatars.com/api/?name=Asdren+Jerliu\")"
+  },
+  {
+    "name": "toni",
+    "surname": "jerliu",
+    "email": "test@gmail.com",
+    "createdAt": "2022-12-20T16:41:32.573Z",
+    "updatedAt": "2022-12-20T16:41:32.573Z",
+    "id": "bw1sbg8lbwgdx26",
+    "avatar": "url(\"https://ui-avatars.com/api/?name=toni+jerliu\")"
+  },
+  {
+    "name": "Stiven",
+    "surname": "Gerrard",
+    "email": "test@test.com",
+    "createdAt": "2022-12-20T16:42:52.470Z",
+    "updatedAt": "2022-12-20T16:42:52.470Z",
+    "id": "bw1sbg8lbwgfmpi",
+    "avatar": "url(\"https://ui-avatars.com/api/?name=Stiven+Gerrard\")"
+  },
+  {
+    "name": "Sadio",
+    "surname": "Mane",
+    "email": "test@test.com",
+    "createdAt": "2022-12-20T16:46:01.365Z",
+    "updatedAt": "2022-12-20T16:49:55.219Z",
+    "id": "bw1sbg8lbwgjogl",
+    "avatar": "url(\"https://ui-avatars.com/api/?name=Sadio+Mane\")"
+  }
+]
